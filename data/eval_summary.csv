@@ -1,0 +1,7 @@
+profile,budget,candidates,top_n,mean_match,lift_vs_catalogue,constraint_violations,priority_consistent,explanation_accuracy,avg_response_ms,dominant,w_camera,w_performance,w_battery,w_storage,w_display,w_software,w_value
+Student,15000,4,4,36.6,-14.1,0,1,1.0,26.1,camera,30,20,20,15,10,0,5
+Gamer,25000,9,9,55.8,-1.5,0,1,1.0,22.48,performance,5,40,20,10,20,5,0
+Photographer,30000,13,10,48.9,-0.9,0,1,1.0,16.2,camera,45,10,10,15,15,5,0
+Business user,35000,14,10,57.9,0.3,0,1,1.0,17.92,battery,10,15,25,10,15,25,0
+Heavy battery,15000,4,4,51.2,-5.8,0,1,1.0,19.02,battery,10,15,45,10,10,0,10
+Budget user,12000,1,1,54.2,-4.3,0,1,1.0,17.35,value,10,10,25,15,5,0,35
